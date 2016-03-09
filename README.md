@@ -1,4 +1,4 @@
-##makefile自动生成工具
+#makefile自动生成工具
 frame.sh
 
 ##使用方式
