@@ -1,5 +1,5 @@
 #!/bin/bash
-
+##修改
 APP='demo'
 VERSION=1.0
 EMAIL='rtxbc@163.com'
